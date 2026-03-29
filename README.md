@@ -1,5 +1,7 @@
 # 🛠️ mcp-app-with-hono - Simplifying Cloudflare App Development
 
+[![SafeSkill 89/100](https://img.shields.io/badge/SafeSkill-89%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/lokesh-bathala-mcp-app-with-hono)
+
 ## 🚀 Getting Started
 
 Welcome to the **mcp-app-with-hono** project! This application helps you build and manage applications using Hono and Cloudflare Workers without needing to know how to code. Whether you're working on a personal project or a professional application, you'll find our tools useful.
